@@ -1,13 +1,8 @@
 let questions = [];
-
 let currentQuestion = null;
 
 let correctCount = 0;
 let totalCount = 0;
-
-// =========================
-// 要素取得
-// =========================
 
 const questionImage =
     document.getElementById("questionImage");
@@ -42,9 +37,10 @@ const correctCountElement =
 const totalCountElement =
     document.getElementById("totalCount");
 
-// =========================
-// JSON読み込み
-// =========================
+
+// -------------------------
+// JSON読込
+// -------------------------
 
 async function loadQuestions() {
 
@@ -58,52 +54,53 @@ async function loadQuestions() {
 
         nextQuestion();
 
-    } catch(error) {
+    } catch (error) {
 
         console.error(error);
 
         message.textContent =
-            "問題データを読み込めませんでした";
+            "questions.json を読み込めませんでした";
 
     }
 
 }
 
-// =========================
-// 出題候補取得
-// =========================
+
+// -------------------------
+// フィルタ
+// -------------------------
 
 function getFilteredQuestions() {
 
     const selectedDifficulty =
         difficulty.value;
 
-    if(selectedDifficulty === "all") {
+    if (selectedDifficulty === "all") {
 
         return questions;
 
     }
 
-    return questions.filter(q =>
-        String(q.difficulty) ===
-        selectedDifficulty
+    return questions.filter(question =>
+        question.length <= Number(selectedDifficulty)
     );
 
 }
 
-// =========================
-// 次の問題
-// =========================
+
+// -------------------------
+// ランダム出題
+// -------------------------
 
 function nextQuestion() {
 
     const candidates =
         getFilteredQuestions();
 
-    if(candidates.length === 0) {
+    if (candidates.length === 0) {
 
         message.textContent =
-            "問題がありません";
+            "条件に合う問題がありません";
 
         return;
 
@@ -122,9 +119,10 @@ function nextQuestion() {
 
 }
 
-// =========================
-// 問題表示
-// =========================
+
+// -------------------------
+// 表示更新
+// -------------------------
 
 function displayQuestion() {
 
@@ -144,9 +142,10 @@ function displayQuestion() {
 
 }
 
-// =========================
+
+// -------------------------
 // ヒント表示
-// =========================
+// -------------------------
 
 function updateHints() {
 
@@ -160,30 +159,30 @@ function updateHints() {
 
     romanHint.textContent =
         level >= 2
-            ? (currentQuestion.roma || "")
+            ? currentQuestion.roma
             : "";
 
 }
 
-// =========================
-// 正解判定
-// =========================
+
+// -------------------------
+// 判定
+// -------------------------
 
 function checkAnswer() {
 
-    if(!currentQuestion) return;
+    if (!currentQuestion) return;
 
     const input =
         answerInput.value
-            .trim()
-            .replace(/\s/g, "");
+            .trim();
 
     totalCount++;
 
     totalCountElement.textContent =
         totalCount;
 
-    if(input === currentQuestion.word) {
+    if (input === currentQuestion.word) {
 
         correctCount++;
 
@@ -202,15 +201,16 @@ function checkAnswer() {
     } else {
 
         message.textContent =
-            `❌ 正解：${currentQuestion.word}`;
+            `❌ 正解は「${currentQuestion.word}」`;
 
     }
 
 }
 
-// =========================
+
+// -------------------------
 // イベント
-// =========================
+// -------------------------
 
 checkButton.addEventListener(
     "click",
@@ -226,7 +226,7 @@ answerInput.addEventListener(
     "keydown",
     event => {
 
-        if(event.key === "Enter") {
+        if (event.key === "Enter") {
 
             checkAnswer();
 
@@ -237,28 +237,17 @@ answerInput.addEventListener(
 
 supportLevel.addEventListener(
     "change",
-    () => {
-
-        if(currentQuestion) {
-
-            updateHints();
-
-        }
-
-    }
+    updateHints
 );
 
 difficulty.addEventListener(
     "change",
-    () => {
-
-        nextQuestion();
-
-    }
+    nextQuestion
 );
 
-// =========================
-// 開始
-// =========================
+
+// -------------------------
+// 起動
+// -------------------------
 
 loadQuestions();
