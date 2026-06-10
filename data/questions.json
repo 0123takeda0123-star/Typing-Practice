@@ -1,22 +1,18 @@
 [
   {
-    "word": "いぬ",
-    "difficulty": 1,
-    "roma": "inu"
-  },
-  {
-    "word": "ねこ",
-    "difficulty": 1,
-    "roma": "neko"
-  },
-  {
-    "word": "でんしゃ",
-    "difficulty": 2,
-    "roma": "densha"
+    "word": "きゅうり",
+    "roma": "kyuuri",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false,
+    "category": "やさい"
   },
   {
     "word": "きって",
-    "difficulty": 3,
-    "roma": "kitte"
+    "roma": "kitte",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": true,
+    "category": "ゆうびん"
   }
 ]
