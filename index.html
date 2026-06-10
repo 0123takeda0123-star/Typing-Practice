@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>イラストタイピング</title>
+
+<style>
+:root{
+    --bg:#f5f7fa;
+    --card:#ffffff;
+    --border:#dcdfe4;
+    --text:#222;
+    --sub:#777;
+    --accent:#4a7cff;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    padding:20px;
+    font-family:sans-serif;
+    background:var(--bg);
+    color:var(--text);
+}
+
+.container{
+    max-width:800px;
+    margin:0 auto;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:24px;
+}
+
+.card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:20px;
+    margin-bottom:20px;
+}
+
+.settings{
+    display:flex;
+    flex-wrap:wrap;
+    gap:16px;
+    align-items:center;
+}
+
+.setting-group{
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+}
+
+label{
+    font-size:14px;
+    color:var(--sub);
+}
+
+select{
+    padding:8px;
+    font-size:16px;
+}
+
+.image-area{
+    text-align:center;
+}
+
+#questionImage{
+    width:100%;
+    max-width:350px;
+    aspect-ratio:1;
+    object-fit:contain;
+    border:1px solid var(--border);
+    border-radius:12px;
+    background:white;
+}
+
+#kanaHint{
+    margin-top:20px;
+    font-size:32px;
+    color:#999;
+    min-height:48px;
+}
+
+#romanHint{
+    margin-top:10px;
+    font-size:24px;
+    color:#333;
+    min-height:32px;
+}
+
+.input-area{
+    text-align:center;
+}
+
+#answerInput{
+    width:100%;
+    max-width:400px;
+    padding:12px;
+    font-size:28px;
+    text-align:center;
+}
+
+#message{
+    margin-top:16px;
+    min-height:32px;
+    font-size:24px;
+}
+
+.score{
+    text-align:center;
+    font-size:18px;
+}
+
+.score span{
+    font-weight:bold;
+}
+
+button{
+    padding:10px 20px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.actions{
+    margin-top:16px;
+    display:flex;
+    justify-content:center;
+    gap:12px;
+}
+
+@media (max-width:600px){
+
+    body{
+        padding:12px;
+    }
+
+    #kanaHint{
+        font-size:26px;
+    }
+
+    #romanHint{
+        font-size:20px;
+    }
+
+    #answerInput{
+        font-size:24px;
+    }
+
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>イラストタイピング</h1>
+
+    <div class="card">
+        <div class="settings">
+
+            <div class="setting-group">
+                <label for="supportLevel">
+                    ヒント表示
+                </label>
+                <select id="supportLevel">
+                    <option value="0">イラストのみ</option>
+                    <option value="1">ひらがな表示</option>
+                    <option value="2">ひらがな＋ローマ字表示</option>
+                </select>
+            </div>
+
+            <div class="setting-group">
+                <label for="difficulty">
+                    難易度
+                </label>
+                <select id="difficulty">
+                    <option value="all">すべて</option>
+                    <option value="1">かんたん</option>
+                    <option value="2">ふつう</option>
+                    <option value="3">むずかしい</option>
+                </select>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="card image-area">
+
+        <img
+            id="questionImage"
+            src=""
+            alt="問題画像">
+
+        <div id="kanaHint"></div>
+
+        <div id="romanHint"></div>
+
+    </div>
+
+    <div class="card input-area">
+
+        <input
+            id="answerInput"
+            type="text"
+            autocomplete="off"
+            autocorrect="off"
+            spellcheck="false"
+            placeholder="ひらがなで入力">
+
+        <div class="actions">
+
+            <button id="checkButton">
+                こたえる
+            </button>
+
+            <button id="nextButton">
+                つぎへ
+            </button>
+
+        </div>
+
+        <div id="message"></div>
+
+    </div>
+
+    <div class="card score">
+
+        正解数：
+        <span id="correctCount">0</span>
+
+        ／
+
+        出題数：
+        <span id="totalCount">0</span>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
