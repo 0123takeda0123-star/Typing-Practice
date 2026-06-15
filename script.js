@@ -127,7 +127,7 @@ function nextQuestion() {
 function displayQuestion() {
 
     questionImage.src =
-        `images/${currentQuestion.word}.png`;
+        `imgs/${currentQuestion.word}.png`;
 
     questionImage.alt =
         currentQuestion.word;
