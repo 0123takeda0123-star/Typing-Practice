@@ -192,6 +192,10 @@ function checkAnswer() {
         answerInput.value
             .trim();
 
+    if (input) {
+        speak(input);
+    }
+
     totalCount++;
 
     totalCountElement.textContent =
