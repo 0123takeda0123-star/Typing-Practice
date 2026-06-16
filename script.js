@@ -37,6 +37,8 @@ const correctCountElement =
 const totalCountElement =
     document.getElementById("totalCount");
 
+const speakButton =
+    document.getElementById("speakButton");
 
 // -------------------------
 // JSON読込
@@ -164,6 +166,19 @@ function updateHints() {
 
 }
 
+function speak(text){
+
+    const utterance =
+        new SpeechSynthesisUtterance(text);
+
+    utterance.lang = "ja-JP";
+    utterance.rate = 1.0;
+    utterance.pitch = 1.0;
+
+    speechSynthesis.cancel();
+    speechSynthesis.speak(utterance);
+}
+
 
 // -------------------------
 // 判定
@@ -245,6 +260,13 @@ difficulty.addEventListener(
     nextQuestion
 );
 
+speakButton.addEventListener("click", () => {
+
+    if(!currentQuestion) return;
+
+    speak(currentQuestion.word);
+
+});
 
 // -------------------------
 // 起動
