@@ -189,12 +189,29 @@ function checkAnswer() {
     if (!currentQuestion) return;
 
     const input =
-        answerInput.value
-            .trim();
+        answerInput.value.trim();
 
     if (input) {
-        speak(input);
+
+        const u =
+            new SpeechSynthesisUtterance(input);
+
+        u.lang = "ja-JP";
+
+        u.onend = () => {
+            judgeAnswer(input);
+        };
+
+        speechSynthesis.cancel();
+        speechSynthesis.speak(u);
+
+        return;
     }
+
+    judgeAnswer(input);
+}
+
+function judgeAnswer(input){
 
     totalCount++;
 
@@ -212,9 +229,7 @@ function checkAnswer() {
             "⭕ 正解";
 
         setTimeout(() => {
-
             nextQuestion();
-
         }, 700);
 
     } else {
@@ -223,7 +238,6 @@ function checkAnswer() {
             `❌ 正解は「${currentQuestion.word}」`;
 
     }
-
 }
 
 
