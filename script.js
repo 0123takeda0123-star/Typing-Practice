@@ -4,6 +4,9 @@ let currentQuestion = null;
 let correctCount = 0;
 let totalCount = 0;
 
+let previousQuestion = null;
+let debugIndex = 0;
+
 const questionImage =
     document.getElementById("questionImage");
 
@@ -39,6 +42,10 @@ const totalCountElement =
 
 const speakButton =
     document.getElementById("speakButton");
+
+const debugMode =
+    document.getElementById("debugMode");
+
 
 // -------------------------
 // JSON読込
@@ -77,21 +84,42 @@ function getFilteredQuestions() {
     const selectedDifficulty =
         difficulty.value;
 
-    if (selectedDifficulty === "all") {
+    switch(selectedDifficulty){
 
-        return questions;
+        case "normal":
+            return questions.filter(q =>
+                !q.hasYouonChoon &&
+                !q.hasSokuon
+            );
+
+        case "youon":
+            return questions.filter(q =>
+                q.hasYouonChoon &&
+                !q.hasSokuon
+            );
+
+        case "sokuon":
+            return questions.filter(q =>
+                !q.hasYouonChoon &&
+                q.hasSokuon
+            );
+
+        case "both":
+            return questions.filter(q =>
+                q.hasYouonChoon &&
+                q.hasSokuon
+            );
+
+        default:
+            return questions;
 
     }
-
-    return questions.filter(question =>
-        question.length <= Number(selectedDifficulty)
-    );
 
 }
 
 
 // -------------------------
-// ランダム出題
+// 出題
 // -------------------------
 
 function nextQuestion() {
@@ -108,14 +136,61 @@ function nextQuestion() {
 
     }
 
-    const randomIndex =
-        Math.floor(
-            Math.random() *
-            candidates.length
-        );
+    // デバッグモード
+    if (
+        debugMode &&
+        debugMode.checked
+    ) {
+
+        if (
+            debugIndex >= candidates.length
+        ) {
+
+            debugIndex = 0;
+
+        }
+
+        currentQuestion =
+            candidates[debugIndex];
+
+        debugIndex++;
+
+        displayQuestion();
+
+        return;
+
+    }
+
+    // 通常モード
+    let next;
+
+    do {
+
+        const randomIndex =
+            Math.floor(
+                Math.random() *
+                candidates.length
+            );
+
+        next =
+            candidates[randomIndex];
+
+    } while (
+
+        candidates.length > 1 &&
+
+        previousQuestion &&
+
+        next.word ===
+        previousQuestion.word
+
+    );
 
     currentQuestion =
-        candidates[randomIndex];
+        next;
+
+    previousQuestion =
+        currentQuestion;
 
     displayQuestion();
 
@@ -151,6 +226,8 @@ function displayQuestion() {
 
 function updateHints() {
 
+    if (!currentQuestion) return;
+
     const level =
         Number(supportLevel.value);
 
@@ -166,6 +243,11 @@ function updateHints() {
 
 }
 
+
+// -------------------------
+// 音声読み上げ
+// -------------------------
+
 function speak(text){
 
     const utterance =
@@ -177,6 +259,7 @@ function speak(text){
 
     speechSynthesis.cancel();
     speechSynthesis.speak(utterance);
+
 }
 
 
@@ -193,23 +276,28 @@ function checkAnswer() {
 
     if (input) {
 
-        const u =
+        const utterance =
             new SpeechSynthesisUtterance(input);
 
-        u.lang = "ja-JP";
+        utterance.lang = "ja-JP";
 
-        u.onend = () => {
+        utterance.onend = () => {
+
             judgeAnswer(input);
+
         };
 
         speechSynthesis.cancel();
-        speechSynthesis.speak(u);
+        speechSynthesis.speak(utterance);
 
         return;
+
     }
 
     judgeAnswer(input);
+
 }
+
 
 function judgeAnswer(input){
 
@@ -229,7 +317,9 @@ function judgeAnswer(input){
             "⭕ 正解";
 
         setTimeout(() => {
+
             nextQuestion();
+
         }, 700);
 
     } else {
@@ -238,6 +328,7 @@ function judgeAnswer(input){
             `❌ 正解は「${currentQuestion.word}」`;
 
     }
+
 }
 
 
@@ -259,7 +350,9 @@ answerInput.addEventListener(
     "keydown",
     event => {
 
-        if (event.key === "Enter") {
+        if (
+            event.key === "Enter"
+        ) {
 
             checkAnswer();
 
@@ -275,16 +368,43 @@ supportLevel.addEventListener(
 
 difficulty.addEventListener(
     "change",
-    nextQuestion
+    () => {
+
+        debugIndex = 0;
+
+        nextQuestion();
+
+    }
 );
 
-speakButton.addEventListener("click", () => {
+if (debugMode) {
 
-    if(!currentQuestion) return;
+    debugMode.addEventListener(
+        "change",
+        () => {
 
-    speak(currentQuestion.word);
+            debugIndex = 0;
 
-});
+            nextQuestion();
+
+        }
+    );
+
+}
+
+speakButton.addEventListener(
+    "click",
+    () => {
+
+        if (!currentQuestion) return;
+
+        speak(
+            currentQuestion.word
+        );
+
+    }
+);
+
 
 // -------------------------
 // 起動
