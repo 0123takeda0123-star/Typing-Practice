@@ -334,8 +334,8 @@
   },
   {
     "word": "そうじき",
-    "roma": "so u zi yo u gu i re",
-    "length": 8,
+    "roma": "so u zi ki",
+    "length": 4,
     "hasYouonChoon": false,
     "hasSokuon": false,
     "category": "がっこう",
@@ -1672,15 +1672,6 @@
     "hasSokuon": false,
     "category": "びょうき",
     "wordk": "気分"
-  },
-  {
-    "word": "といれ",
-    "roma": "to i re",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "トイレ"
   },
   {
     "word": "とまと",
