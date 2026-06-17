@@ -84,6 +84,12 @@ function getFilteredQuestions() {
     const selectedDifficulty =
         difficulty.value;
 
+    if (selectedDifficulty === "all") {
+
+        return questions;
+
+    }
+
     switch(selectedDifficulty){
 
         case "normal":
