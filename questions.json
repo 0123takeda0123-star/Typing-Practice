@@ -240,16 +240,16 @@
     "hasYouonChoon": false,
     "hasSokuon": false,
     "category": "がっこう",
-    "wordk": "体育"
+    "wordk": "体育倉庫"
   },
   {
-    "word": "ちょうれいただい",
-    "roma": "cho u re i ta da i",
+    "word": "ちょうれいだい",
+    "roma": "cho u re i da i",
     "length": 8,
     "hasYouonChoon": true,
     "hasSokuon": false,
     "category": "がっこう",
-    "wordk": "朝礼"
+    "wordk": "朝礼台"
   },
   {
     "word": "つうがくろ",
