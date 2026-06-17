@@ -209,11 +209,18 @@ function nextQuestion() {
 
 function displayQuestion() {
 
-    questionImage.src =
-        `imgs/${currentQuestion.word}.png`;
+    const baseName =
+    `imgs/${currentQuestion.word}`;
 
-    questionImage.alt =
-        currentQuestion.word;
+        questionImage.onerror = () => {
+
+        questionImage.onerror = null;
+
+            questionImage.src = `${baseName}.jpg`;
+        };
+
+            questionImage.src = `${baseName}.png`;
+            questionImage.alt =　currentQuestion.word;
 
     answerInput.value = "";
 
