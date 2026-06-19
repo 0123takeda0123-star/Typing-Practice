@@ -1,1955 +1,1535 @@
 [
   {
-    "word": "きょうしつ",
-    "roma": "kyo u si tu",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "教室"
-  },
-  {
-    "word": "たいいくかん",
-    "roma": "ta i i ku ka nn",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "体育館"
-  },
-  {
-    "word": "ほけんしつ",
-    "roma": "ho ke nn si tu",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "保健室"
-  },
-  {
-    "word": "しょくいんしつ",
-    "roma": "sho ku i nn si tu",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "職員室"
-  },
-  {
-    "word": "としょしつ",
-    "roma": "to sho si tu",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "図書室"
-  },
-  {
-    "word": "といれ",
-    "roma": "to i re",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "トイレ"
-  },
-  {
-    "word": "こうちょうしつ",
-    "roma": "ko u cho u si tu",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "校長室"
-  },
-  {
-    "word": "りかしつ",
-    "roma": "ri ka si tu",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "理科室"
-  },
-  {
-    "word": "おんがくしつ",
-    "roma": "o nn ga ku si tu",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "音楽室"
-  },
-  {
-    "word": "ずこうしつ",
-    "roma": "zu ko u si tu",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "図工室"
-  },
-  {
-    "word": "かていかしつ",
-    "roma": "ka te i ka si tu",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "家庭科室"
-  },
-  {
-    "word": "ぱそこんしつ",
-    "roma": "pa so ko nn si tu",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "パソコン室"
-  },
-  {
-    "word": "ほうそうしつ",
-    "roma": "ho u so u si tu",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "放送室"
-  },
-  {
-    "word": "げんかん",
-    "roma": "ge nn ka nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "玄関"
-  },
-  {
-    "word": "げたばこ",
-    "roma": "ge ta ba ko",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "下駄箱"
-  },
-  {
-    "word": "ろうか",
-    "roma": "ro u ka",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "廊下"
-  },
-  {
-    "word": "かいだん",
-    "roma": "ka i da nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "階段"
-  },
-  {
-    "word": "なかにわ",
-    "roma": "na ka ni wa",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "中庭"
-  },
-  {
-    "word": "こうてい",
-    "roma": "ko u te i",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "校庭"
-  },
-  {
-    "word": "ぷーる",
-    "roma": "pu ー ru",
-    "length": 3,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "プール"
-  },
-  {
-    "word": "すなば",
-    "roma": "su na ba",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "砂場"
-  },
-  {
-    "word": "てあらいば",
-    "roma": "te a ra i ba",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "手洗い場"
-  },
-  {
-    "word": "すいどう",
-    "roma": "su i do u",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "水道"
-  },
-  {
-    "word": "ごみばこ",
-    "roma": "go mi ba ko",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ばしょ",
-    "wordk": "ゴミ箱"
-  },
-  {
-    "word": "けいじばん",
-    "roma": "ke i zi ba nn",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "掲示板"
-  },
-  {
-    "word": "うさぎごや",
-    "roma": "u sa gi go ya",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "うさぎ小屋"
-  },
-  {
-    "word": "たいいくそうこ",
-    "roma": "ta i i ku so u ko",
-    "length": 7,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "体育倉庫"
-  },
-  {
-    "word": "ちょうれいだい",
-    "roma": "cho u re i da i",
-    "length": 8,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "朝礼台"
-  },
-  {
-    "word": "つうがくろ",
-    "roma": "tu u ga ku ro",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "通学路"
-  },
-  {
-    "word": "つくえ",
-    "roma": "tu ku e",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "机"
-  },
-  {
-    "word": "いす",
-    "roma": "i su",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "椅子"
-  },
-  {
-    "word": "こくばん",
-    "roma": "ko ku ba nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "黒板"
-  },
-  {
-    "word": "こくばんけし",
-    "roma": "ko ku ba nn ke si",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "黒板消し"
-  },
-  {
-    "word": "ちょーく",
-    "roma": "cho ー ku",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "チョーク"
-  },
-  {
-    "word": "てれび",
-    "roma": "te re bi",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "テレビ"
-  },
-  {
-    "word": "たな",
-    "roma": "ta na",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "棚"
-  },
-  {
-    "word": "ろっかー",
-    "roma": "ro k ka ー",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": true,
-    "category": "がっこう",
-    "wordk": "ロッカー"
-  },
-  {
-    "word": "そうじき",
-    "roma": "so u zi ki",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "掃除機"
-  },
-  {
-    "word": "かれんだー",
-    "roma": "ka re nn da ー",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "カレンダー"
-  },
-  {
-    "word": "とけい",
-    "roma": "to ke i",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "時計"
-  },
-  {
-    "word": "せんぷうき",
-    "roma": "se nn pu u ki",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "扇風機"
-  },
-  {
-    "word": "えあこん",
-    "roma": "e a ko nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "エアコン"
-  },
-  {
-    "word": "すぴーかー",
-    "roma": "su pi ー ka ー",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "スピーカー"
-  },
-  {
-    "word": "でんき",
-    "roma": "de nn ki",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "電気"
-  },
-  {
-    "word": "まど",
-    "roma": "ma do",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "窓"
-  },
-  {
-    "word": "かーてん",
-    "roma": "ka ー te nn",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "カーテン"
-  },
-  {
-    "word": "どあ",
-    "roma": "do a",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "かぐ",
-    "wordk": "ドア"
-  },
-  {
-    "word": "めあて",
-    "roma": "me a te",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "目当て"
-  },
-  {
-    "word": "らんどせる",
-    "roma": "ra nn do se ru",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "ランドセル"
-  },
-  {
-    "word": "ふでばこ",
-    "roma": "hu de ba ko",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "筆箱"
-  },
-  {
-    "word": "えんぴつ",
-    "roma": "e nn pi tu",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "鉛筆"
-  },
-  {
-    "word": "けしごむ",
-    "roma": "ke si go mu",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "消しゴム"
-  },
-  {
     "word": "あかえんぴつ",
     "roma": "a ka e nn pi tu",
     "length": 6,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "赤鉛筆"
-  },
-  {
-    "word": "じょうぎ",
-    "roma": "jo u gi",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "定規"
-  },
-  {
-    "word": "のーと",
-    "roma": "no ー to",
-    "length": 3,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "ノート"
-  },
-  {
-    "word": "きょうかしょ",
-    "roma": "kyo u ka sho",
-    "length": 6,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "教科書"
-  },
-  {
-    "word": "どりる",
-    "roma": "do ri ru",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "ドリル"
-  },
-  {
-    "word": "れんらくちょう",
-    "roma": "re nn ra ku cho u",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "連絡帳"
-  },
-  {
-    "word": "れんらくぶくろ",
-    "roma": "re nn ra ku bu ku ro",
-    "length": 7,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "連絡"
-  },
-  {
-    "word": "ぷりんと",
-    "roma": "pu ri nn to",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "プリント"
-  },
-  {
-    "word": "したじき",
-    "roma": "si ta zi ki",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "靴"
-  },
-  {
-    "word": "うわばき",
-    "roma": "u wa ba ki",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "上履き"
-  },
-  {
-    "word": "たいそうふく",
-    "roma": "ta i so u hu ku",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "体操服"
+    "hasSokuon": false
   },
   {
     "word": "あかしろぼうし",
     "roma": "a ka si ro bo u si",
     "length": 7,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "赤白帽子"
-  },
-  {
-    "word": "てさげぶくろ",
-    "roma": "te sa ge bu ku ro",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "手提げ袋"
-  },
-  {
-    "word": "はさみ",
-    "roma": "ha sa mi",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "ハサミ"
-  },
-  {
-    "word": "のり",
-    "roma": "no ri",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "ノリ"
-  },
-  {
-    "word": "せろはんてーぷ",
-    "roma": "se ro ha nn te ー pu",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "セロハンテープ"
-  },
-  {
-    "word": "くれよん",
-    "roma": "ku re yo nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "クレヨン"
-  },
-  {
-    "word": "いろえんぴつ",
-    "roma": "i ro e nn pi tu",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "色鉛筆"
-  },
-  {
-    "word": "くりっぷ",
-    "roma": "ku ri p pu",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": true,
-    "category": "ぶんぼうぐ",
-    "wordk": "クリップ"
-  },
-  {
-    "word": "ふせん",
-    "roma": "hu se nn",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ぶんぼうぐ",
-    "wordk": "付箋"
-  },
-  {
-    "word": "はんかち",
-    "roma": "ha nn ka ti",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "もちもの",
-    "wordk": "ハンカチ"
-  },
-  {
-    "word": "てぃっしゅ",
-    "roma": "thi s shu",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": true,
-    "category": "もちもの",
-    "wordk": "ティッシュ"
-  },
-  {
-    "word": "すいとう",
-    "roma": "su i to u",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "もちもの",
-    "wordk": "水筒"
-  },
-  {
-    "word": "かさ",
-    "roma": "ka sa",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "もちもの",
-    "wordk": "傘"
-  },
-  {
-    "word": "かっぱ",
-    "roma": "ka p pa",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": true,
-    "category": "もちもの",
-    "wordk": "かっぱ"
-  },
-  {
-    "word": "ぼうさいずきん",
-    "roma": "bo u sa i zu ki nn",
-    "length": 7,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "もちもの",
-    "wordk": "防災頭巾"
-  },
-  {
-    "word": "じかんわり",
-    "roma": "zi ka nn wa ri",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "時間割"
-  },
-  {
-    "word": "こくご",
-    "roma": "ko ku go",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "国語"
-  },
-  {
-    "word": "さんすう",
-    "roma": "sa nn su u",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "算数"
-  },
-  {
-    "word": "りか",
-    "roma": "ri ka",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "理科"
-  },
-  {
-    "word": "しゃかい",
-    "roma": "sha ka i",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "社会"
-  },
-  {
-    "word": "おんがく",
-    "roma": "o nn ga ku",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "音楽"
-  },
-  {
-    "word": "ずこう",
-    "roma": "zu ko u",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "図工"
-  },
-  {
-    "word": "たいいく",
-    "roma": "ta i i ku",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "体育"
-  },
-  {
-    "word": "かていか",
-    "roma": "ka te i ka",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "家庭科"
-  },
-  {
-    "word": "えいご",
-    "roma": "e i go",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "英語"
-  },
-  {
-    "word": "どうとく",
-    "roma": "do u to ku",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "道徳"
-  },
-  {
-    "word": "そうごう",
-    "roma": "so u go u",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "総合"
-  },
-  {
-    "word": "しょしゃ",
-    "roma": "sho sha",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "書写"
+    "hasSokuon": false
   },
   {
     "word": "あさのかい",
     "roma": "a sa no ka i",
     "length": 5,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "朝の会"
-  },
-  {
-    "word": "かえりのかい",
-    "roma": "ka e ri no ka i",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "帰りの会"
-  },
-  {
-    "word": "じしゅう",
-    "roma": "zi shu u",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "自習"
-  },
-  {
-    "word": "やすみじかん",
-    "roma": "ya su mi zi ka nn",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "休み時間"
-  },
-  {
-    "word": "ひるやすみ",
-    "roma": "hi ru ya su mi",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "昼休み"
-  },
-  {
-    "word": "ほうかご",
-    "roma": "ho u ka go",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "放課後"
-  },
-  {
-    "word": "きゅうしょく",
-    "roma": "kyu u sho ku",
-    "length": 6,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "きょうか",
-    "wordk": "給食"
-  },
-  {
-    "word": "こんだてひょう",
-    "roma": "ko nn da te hyo u",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "献立表"
-  },
-  {
-    "word": "きゅうしょくとうばん",
-    "roma": "kyu u sho ku to u ba nn",
-    "length": 10,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "給食当番"
-  },
-  {
-    "word": "きゅうしょくぎ",
-    "roma": "kyu u sho ku gi",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "給食着"
-  },
-  {
-    "word": "ますく",
-    "roma": "ma su ku",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "マスク"
-  },
-  {
-    "word": "さんかくきん",
-    "roma": "sa nn ka ku ki nn",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "三角巾"
-  },
-  {
-    "word": "ぼうし",
-    "roma": "bo u si",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "帽子"
-  },
-  {
-    "word": "とれい",
-    "roma": "to re i",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "トレイ"
-  },
-  {
-    "word": "おさら",
-    "roma": "o sa ra",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "お皿"
-  },
-  {
-    "word": "おわん",
-    "roma": "o wa nn",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "お椀"
-  },
-  {
-    "word": "はし",
-    "roma": "ha si",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "箸"
-  },
-  {
-    "word": "すぷーん",
-    "roma": "su pu ー nn",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "スプーン"
-  },
-  {
-    "word": "ふぉーく",
-    "roma": "fo ー ku",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "フォーク"
-  },
-  {
-    "word": "ごはん",
-    "roma": "go ha nn",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "ご飯"
-  },
-  {
-    "word": "ぱん",
-    "roma": "pa nn",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "パン"
-  },
-  {
-    "word": "おかず",
-    "roma": "o ka zu",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "おかず"
-  },
-  {
-    "word": "すーぷ",
-    "roma": "su ー pu",
-    "length": 3,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "スープ"
-  },
-  {
-    "word": "ぎゅうにゅうぱっく",
-    "roma": "gyu u nyu u pa k ku",
-    "length": 9,
-    "hasYouonChoon": true,
-    "hasSokuon": true,
-    "category": "しょくじ",
-    "wordk": "牛乳パック"
-  },
-  {
-    "word": "でざーと",
-    "roma": "de za ー to",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "デザート"
-  },
-  {
-    "word": "おかわり",
-    "roma": "o ka wa ri",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "おかわり"
-  },
-  {
-    "word": "はみがき",
-    "roma": "ha mi ga ki",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "しょくじ",
-    "wordk": "歯磨き"
-  },
-  {
-    "word": "こっぷ",
-    "roma": "ko p pu",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": true,
-    "category": "しょくじ",
-    "wordk": "コップ"
-  },
-  {
-    "word": "そうじ",
-    "roma": "so u zi",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "掃除"
-  },
-  {
-    "word": "そうじとうばん",
-    "roma": "so u zi to u ba nn",
-    "length": 7,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "掃除当番"
-  },
-  {
-    "word": "ほうき",
-    "roma": "ho u ki",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "放棄"
-  },
-  {
-    "word": "ちりとり",
-    "roma": "ti ri to ri",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "ちりとり"
-  },
-  {
-    "word": "ぞうきん",
-    "roma": "zo u ki nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "雑巾"
-  },
-  {
-    "word": "ばけつ",
-    "roma": "ba ke tu",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "バケツ"
-  },
-  {
-    "word": "つくえいどう",
-    "roma": "tu ku e i do u",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "机"
-  },
-  {
-    "word": "ごみ",
-    "roma": "go mi",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "ゴミ"
-  },
-  {
-    "word": "もえるごみ",
-    "roma": "mo e ru go mi",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "燃えるごみ"
-  },
-  {
-    "word": "もえないごみ",
-    "roma": "mo e na i go mi",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "燃えない"
-  },
-  {
-    "word": "ぷらすちっく",
-    "roma": "pu ra su ti k ku",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": true,
-    "category": "そうじ",
-    "wordk": "プラスチック"
-  },
-  {
-    "word": "ぺっとぼとる",
-    "roma": "pe t to bo to ru",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": true,
-    "category": "そうじ",
-    "wordk": "ペットボトル"
-  },
-  {
-    "word": "かん",
-    "roma": "ka nn",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "缶"
-  },
-  {
-    "word": "ごみばこ",
-    "roma": "go mi ba ko",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "そうじ",
-    "wordk": "ゴミ箱"
-  },
-  {
-    "word": "せんせい",
-    "roma": "se nn se i",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "先生"
-  },
-  {
-    "word": "たんにん",
-    "roma": "ta nn ni nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "担任"
-  },
-  {
-    "word": "こうちょうせんせい",
-    "roma": "ko u cho u se nn se i",
-    "length": 9,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "校長先生"
-  },
-  {
-    "word": "ほけんのせんせい",
-    "roma": "ho ke nn no se nn se i",
-    "length": 8,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "保健の先生"
-  },
-  {
-    "word": "ともだち",
-    "roma": "to mo da ti",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "友達"
-  },
-  {
-    "word": "こども",
-    "roma": "ko do mo",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "子ども"
-  },
-  {
-    "word": "はん",
-    "roma": "ha nn",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "班"
-  },
-  {
-    "word": "てすと",
-    "roma": "te su to",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "テスト"
-  },
-  {
-    "word": "しゅくだい",
-    "roma": "shu ku da i",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "宿題"
-  },
-  {
-    "word": "めあて",
-    "roma": "me a te",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "目当て"
-  },
-  {
-    "word": "しぎょうしき",
-    "roma": "si gyo u si ki",
-    "length": 6,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "始業式"
-  },
-  {
-    "word": "しゅうりょうしき",
-    "roma": "shu u ryo u si ki",
-    "length": 8,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "修了式"
-  },
-  {
-    "word": "そつぎょうしき",
-    "roma": "so tu gyo u si ki",
-    "length": 6,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "卒業式"
-  },
-  {
-    "word": "にゅうがくしき",
-    "roma": "nyu u ga ku si ki",
-    "length": 7,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "入学式"
-  },
-  {
-    "word": "うんどうかい",
-    "roma": "u nn do u ka i",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "運動会"
-  },
-  {
-    "word": "えんそく",
-    "roma": "e nn so ku",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "遠足"
-  },
-  {
-    "word": "しゃかいけんがく",
-    "roma": "sha ka i ke nn ga ku",
-    "length": 8,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "社会見学"
-  },
-  {
-    "word": "おたのしみかい",
-    "roma": "o ta no si mi ka i",
-    "length": 7,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "お楽しみ会"
-  },
-  {
-    "word": "じゅぎょうさんかん",
-    "roma": "ju gyo u sa nn ka nn",
-    "length": 9,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "授業参観"
-  },
-  {
-    "word": "しんたいそくてい",
-    "roma": "si nn ta i so ku te i",
-    "length": 8,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "身体測定"
-  },
-  {
-    "word": "はるやすみ",
-    "roma": "ha ru ya su mi",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "春休み"
-  },
-  {
-    "word": "なつやすみ",
-    "roma": "na tu ya su mi",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "夏休み"
-  },
-  {
-    "word": "ふゆやすみ",
-    "roma": "hu yu ya su mi",
-    "length": 5,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "冬休み"
-  },
-  {
-    "word": "つうちひょう",
-    "roma": "tu u ti hyo u",
-    "length": 6,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "通知表"
-  },
-  {
-    "word": "ひなんくんれん",
-    "roma": "hi na nn ku nn re nn",
-    "length": 7,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "がっこう",
-    "wordk": "避難訓練"
-  },
-  {
-    "word": "じしん",
-    "roma": "zi si nn",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "さいがい",
-    "wordk": "地震"
-  },
-  {
-    "word": "かじ",
-    "roma": "ka zi",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "さいがい",
-    "wordk": "火事"
-  },
-  {
-    "word": "たいふう",
-    "roma": "ta i hu u",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "さいがい",
-    "wordk": "台風"
-  },
-  {
-    "word": "つなみ",
-    "roma": "tu na mi",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "さいがい",
-    "wordk": "津波"
-  },
-  {
-    "word": "あたま",
-    "roma": "a ta ma",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "頭"
-  },
-  {
-    "word": "め",
-    "roma": "me",
-    "length": 1,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "目"
-  },
-  {
-    "word": "みみ",
-    "roma": "mi mi",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "耳"
-  },
-  {
-    "word": "はな",
-    "roma": "ha na",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "鼻"
-  },
-  {
-    "word": "くち",
-    "roma": "ku ti",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "口"
-  },
-  {
-    "word": "は",
-    "roma": "ha",
-    "length": 1,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "歯"
-  },
-  {
-    "word": "のど",
-    "roma": "no do",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "喉"
-  },
-  {
-    "word": "て",
-    "roma": "te",
-    "length": 1,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "手"
+    "hasSokuon": false
   },
   {
     "word": "あし",
     "roma": "a si",
     "length": 2,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "足"
+    "hasSokuon": false
   },
   {
-    "word": "おなか",
-    "roma": "o na ka",
+    "word": "あたま",
+    "roma": "a ta ma",
     "length": 3,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "お腹"
-  },
-  {
-    "word": "せなか",
-    "roma": "se na ka",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "背中"
-  },
-  {
-    "word": "こころ",
-    "roma": "ko ko ro",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "からだ",
-    "wordk": "心"
-  },
-  {
-    "word": "ねつ",
-    "roma": "ne tu",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "熱"
-  },
-  {
-    "word": "せき",
-    "roma": "se ki",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "咳"
-  },
-  {
-    "word": "はなみず",
-    "roma": "ha na mi zu",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "鼻水"
-  },
-  {
-    "word": "けが",
-    "roma": "ke ga",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "怪我"
-  },
-  {
-    "word": "ち",
-    "roma": "ti",
-    "length": 1,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "血"
-  },
-  {
-    "word": "びょうき",
-    "roma": "byo u ki",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "病気"
+    "hasSokuon": false
   },
   {
     "word": "あれるぎー",
     "roma": "a re ru gi ー",
     "length": 5,
     "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "アレルギー"
+    "hasSokuon": false
   },
   {
-    "word": "くすり",
-    "roma": "ku su ri",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "薬"
-  },
-  {
-    "word": "ばんそうこう",
-    "roma": "ba nn so u ko u",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "絆創膏"
-  },
-  {
-    "word": "ほうたい",
-    "roma": "ho u ta i",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "包帯"
-  },
-  {
-    "word": "こおりまくら",
-    "roma": "ko o ri ma ku ra",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "氷まくら"
-  },
-  {
-    "word": "きぶん",
-    "roma": "ki bu nn",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "びょうき",
-    "wordk": "気分"
-  },
-  {
-    "word": "とまと",
-    "roma": "to ma to",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "トマト"
-  },
-  {
-    "word": "きゅうり",
-    "roma": "kyu u ri",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "きゅうり"
-  },
-  {
-    "word": "なす",
-    "roma": "na su",
+    "word": "いす",
+    "roma": "i su",
     "length": 2,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "なす"
+    "hasSokuon": false
   },
   {
-    "word": "にんじん",
-    "roma": "ni nn zi nn",
-    "length": 4,
+    "word": "いろえんぴつ",
+    "roma": "i ro e nn pi tu",
+    "length": 6,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "にんじん"
+    "hasSokuon": false
   },
   {
-    "word": "だいこん",
-    "roma": "da i ko nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "大根"
-  },
-  {
-    "word": "たまねぎ",
-    "roma": "ta ma ne gi",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "玉ねぎ"
-  },
-  {
-    "word": "じゃがいも",
-    "roma": "ja ga i mo",
-    "length": 5,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "じゃがいも"
-  },
-  {
-    "word": "ぴーまん",
-    "roma": "pi ー ma nn",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "ピーマン"
-  },
-  {
-    "word": "かぼちゃ",
-    "roma": "ka bo cha",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "かぼちゃ"
-  },
-  {
-    "word": "れんこん",
-    "roma": "re nn ko nn",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "れんこん"
-  },
-  {
-    "word": "ごぼう",
-    "roma": "go bo u",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "ごぼう"
-  },
-  {
-    "word": "さつまいも",
-    "roma": "sa tu ma i mo",
+    "word": "うさぎごや",
+    "roma": "u sa gi go ya",
     "length": 5,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "さつまいも"
+    "hasSokuon": false
   },
   {
-    "word": "さといも",
-    "roma": "sa to i mo",
+    "word": "うわばき",
+    "roma": "u wa ba ki",
     "length": 4,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "里芋"
+    "hasSokuon": false
   },
   {
-    "word": "はくさい",
-    "roma": "ha ku sa i",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "白菜"
-  },
-  {
-    "word": "きゃべつ",
-    "roma": "kya be tu",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "キャベツ"
-  },
-  {
-    "word": "ほうれんそう",
-    "roma": "ho u re nn so u",
+    "word": "うんどうかい",
+    "roma": "u nn do u ka i",
     "length": 6,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "ほうれん草"
+    "hasSokuon": false
   },
   {
-    "word": "こまつな",
-    "roma": "ko ma tu na",
+    "word": "えあこん",
+    "roma": "e a ko nn",
     "length": 4,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "小松菜"
+    "hasSokuon": false
   },
   {
-    "word": "れたす",
-    "roma": "re ta su",
+    "word": "えいご",
+    "roma": "e i go",
     "length": 3,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "レタス"
-  },
-  {
-    "word": "ぶろっこりー",
-    "roma": "bu ro k ko ri ー",
-    "length": 6,
-    "hasYouonChoon": true,
-    "hasSokuon": true,
-    "category": "やさい",
-    "wordk": "ブロッコリー"
-  },
-  {
-    "word": "ねぎ",
-    "roma": "ne gi",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "ネギ"
-  },
-  {
-    "word": "にら",
-    "roma": "ni ra",
-    "length": 2,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "ニラ"
-  },
-  {
-    "word": "おくら",
-    "roma": "o ku ra",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "オクラ"
-  },
-  {
-    "word": "もやし",
-    "roma": "mo ya si",
-    "length": 3,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "もやし"
+    "hasSokuon": false
   },
   {
     "word": "えだまめ",
     "roma": "e da ma me",
     "length": 4,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "枝豆"
-  },
-  {
-    "word": "とうもろこし",
-    "roma": "to u mo ro ko si",
-    "length": 6,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "とうもろこし"
-  },
-  {
-    "word": "しいたけ",
-    "roma": "si i ta ke",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "しいたけ"
+    "hasSokuon": false
   },
   {
     "word": "えのき",
     "roma": "e no ki",
     "length": 3,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "えのき"
+    "hasSokuon": false
   },
   {
-    "word": "しめじ",
-    "roma": "si me zi",
+    "word": "えんそく",
+    "roma": "e nn so ku",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "えんぴつ",
+    "roma": "e nn pi tu",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "おかず",
+    "roma": "o ka zu",
     "length": 3,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "しめじ"
+    "hasSokuon": false
   },
   {
-    "word": "しょうが",
-    "roma": "sho u ga",
-    "length": 4,
-    "hasYouonChoon": true,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "生姜"
-  },
-  {
-    "word": "にんにく",
-    "roma": "ni nn ni ku",
+    "word": "おかわり",
+    "roma": "o ka wa ri",
     "length": 4,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "やさい",
-    "wordk": "にんにく"
+    "hasSokuon": false
+  },
+  {
+    "word": "おくら",
+    "roma": "o ku ra",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "おさら",
+    "roma": "o sa ra",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "おたのしみかい",
+    "roma": "o ta no si mi ka i",
+    "length": 7,
+    "hasYouonChoon": false,
+    "hasSokuon": false
   },
   {
     "word": "おとな",
     "roma": "o to na",
     "length": 3,
     "hasYouonChoon": false,
-    "hasSokuon": false,
-    "category": "ひと",
-    "wordk": "大人"
+    "hasSokuon": false
+  },
+  {
+    "word": "おなか",
+    "roma": "o na ka",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "おわん",
+    "roma": "o wa nn",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "おんがく",
+    "roma": "o nn ga ku",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "おんがくしつ",
+    "roma": "o nn ga ku si tu",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かーてん",
+    "roma": "ka ー te nn",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かいだん",
+    "roma": "ka i da nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かえりのかい",
+    "roma": "ka e ri no ka i",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かかり",
+    "roma": "ka ka ri",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かさ",
+    "roma": "ka sa",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かじ",
+    "roma": "ka zi",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かっぱ",
+    "roma": "ka p pa",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": true
+  },
+  {
+    "word": "かていか",
+    "roma": "ka te i ka",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かていかしつ",
+    "roma": "ka te i ka si tu",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "かぼちゃ",
+    "roma": "ka bo cha",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "かれんだー",
+    "roma": "ka re nn da ー",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "かん",
+    "roma": "ka nn",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "きぶん",
+    "roma": "ki bu nn",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "きゃべつ",
+    "roma": "kya be tu",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "きゅうしょく",
+    "roma": "kyu u sho ku",
+    "length": 6,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "きゅうしょくぎ",
+    "roma": "kyu u sho ku gi",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "きゅうしょくとうばん",
+    "roma": "kyu u sho ku to u ba nn",
+    "length": 10,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぎゅうにゅうぱっく",
+    "roma": "gyu u nyu u pa k ku",
+    "length": 9,
+    "hasYouonChoon": true,
+    "hasSokuon": true
+  },
+  {
+    "word": "きゅうり",
+    "roma": "kyu u ri",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "きょうかしょ",
+    "roma": "kyo u ka sho",
+    "length": 6,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "きょうしつ",
+    "roma": "kyo u si tu",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "くすり",
+    "roma": "ku su ri",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "くち",
+    "roma": "ku ti",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "くりっぷ",
+    "roma": "ku ri p pu",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": true
+  },
+  {
+    "word": "くれよん",
+    "roma": "ku re yo nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "けいじばん",
+    "roma": "ke i zi ba nn",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "けが",
+    "roma": "ke ga",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "けしごむ",
+    "roma": "ke si go mu",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "げたばこ",
+    "roma": "ge ta ba ko",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "げんかん",
+    "roma": "ge nn ka nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こうちょうしつ",
+    "roma": "ko u cho u si tu",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "こうちょうせんせい",
+    "roma": "ko u cho u se nn se i",
+    "length": 9,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "こうてい",
+    "roma": "ko u te i",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こおりまくら",
+    "roma": "ko o ri ma ku ra",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こくご",
+    "roma": "ko ku go",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こくばん",
+    "roma": "ko ku ba nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こくばんけし",
+    "roma": "ko ku ba nn ke si",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こころ",
+    "roma": "ko ko ro",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こっぷ",
+    "roma": "ko p pu",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": true
+  },
+  {
+    "word": "こども",
+    "roma": "ko do mo",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ごはん",
+    "roma": "go ha nn",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ごぼう",
+    "roma": "go bo u",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こまつな",
+    "roma": "ko ma tu na",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ごみ",
+    "roma": "go mi",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ごみばこ",
+    "roma": "go mi ba ko",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ごみばこ",
+    "roma": "go mi ba ko",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "こんだてひょう",
+    "roma": "ko nn da te hyo u",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "こんだんかい",
+    "roma": "ko nn da nn ka i",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "さつまいも",
+    "roma": "sa tu ma i mo",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "さといも",
+    "roma": "sa to i mo",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "さんかくきん",
+    "roma": "sa nn ka ku ki nn",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "さんすう",
+    "roma": "sa nn su u",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "しいたけ",
+    "roma": "si i ta ke",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "じかんわり",
+    "roma": "zi ka nn wa ri",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "しぎょうしき",
+    "roma": "si gyo u si ki",
+    "length": 6,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "じしゅう",
+    "roma": "zi shu u",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "じしん",
+    "roma": "zi si nn",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "したじき",
+    "roma": "si ta zi ki",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "しめじ",
+    "roma": "si me zi",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "しゃかい",
+    "roma": "sha ka i",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しゃかいけんがく",
+    "roma": "sha ka i ke nn ga ku",
+    "length": 8,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "じゃがいも",
+    "roma": "ja ga i mo",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しゅうりょうしき",
+    "roma": "shu u ryo u si ki",
+    "length": 8,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "じゅぎょうさんかん",
+    "roma": "ju gyo u sa nn ka nn",
+    "length": 9,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しゅくだい",
+    "roma": "shu ku da i",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しょうが",
+    "roma": "sho u ga",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "じょうぎ",
+    "roma": "jo u gi",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しょくいんしつ",
+    "roma": "sho ku i nn si tu",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しょしゃ",
+    "roma": "sho sha",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "しんたいそくてい",
+    "roma": "si nn ta i so ku te i",
+    "length": 8,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "すいとう",
+    "roma": "su i to u",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "すいどう",
+    "roma": "su i do u",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "すーぷ",
+    "roma": "su ー pu",
+    "length": 3,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ずこう",
+    "roma": "zu ko u",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ずこうしつ",
+    "roma": "zu ko u si tu",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "すなば",
+    "roma": "su na ba",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "すぴーかー",
+    "roma": "su pi ー ka ー",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "すぷーん",
+    "roma": "su pu ー nn",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "せき",
+    "roma": "se ki",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "せなか",
+    "roma": "se na ka",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "せろはんてーぷ",
+    "roma": "se ro ha nn te ー pu",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "せんせい",
+    "roma": "se nn se i",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "せんぷうき",
+    "roma": "se nn pu u ki",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぞうきん",
+    "roma": "zo u ki nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "そうごう",
+    "roma": "so u go u",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "そうじ",
+    "roma": "so u zi",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "そうじき",
+    "roma": "so u zi yo u gu i re",
+    "length": 8,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "そうじとうばん",
+    "roma": "so u zi to u ba nn",
+    "length": 7,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "そつぎょうしき",
+    "roma": "so tu gyo u si ki",
+    "length": 6,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "たいいく",
+    "roma": "ta i i ku",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "たいいくかん",
+    "roma": "ta i i ku ka nn",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "たいいくそうこ",
+    "roma": "ta i i ku so u ko",
+    "length": 7,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "だいこん",
+    "roma": "da i ko nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "たいそうふく",
+    "roma": "ta i so u hu ku",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "たいふう",
+    "roma": "ta i hu u",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "たな",
+    "roma": "ta na",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "たまねぎ",
+    "roma": "ta ma ne gi",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "たんにん",
+    "roma": "ta nn ni nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ち",
+    "roma": "ti",
+    "length": 1,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ちょうれいだい",
+    "roma": "cho u re i da i",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ちょーく",
+    "roma": "cho ー ku",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ちりとり",
+    "roma": "ti ri to ri",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "つうがくろ",
+    "roma": "tu u ga ku ro",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "つうちひょう",
+    "roma": "tu u ti hyo u",
+    "length": 6,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "つくえ",
+    "roma": "tu ku e",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "つくえいどう",
+    "roma": "tu ku e i do u",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "つなみ",
+    "roma": "tu na mi",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "て",
+    "roma": "te",
+    "length": 1,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "てあらいば",
+    "roma": "te a ra i ba",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "てぃっしゅ",
+    "roma": "thi s shu",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": true
+  },
+  {
+    "word": "でざーと",
+    "roma": "de za ー to",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "てさげぶくろ",
+    "roma": "te sa ge bu ku ro",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "てすと",
+    "roma": "te su to",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "てれび",
+    "roma": "te re bi",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "でんき",
+    "roma": "de nn ki",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "どあ",
+    "roma": "do a",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "といれ",
+    "roma": "to i re",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "といれ",
+    "roma": "to i re",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "どうとく",
+    "roma": "do u to ku",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "とうもろこし",
+    "roma": "to u mo ro ko si",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "とけい",
+    "roma": "to ke i",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "としょしつ",
+    "roma": "to sho si tu",
+    "length": 5,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "とまと",
+    "roma": "to ma to",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ともだち",
+    "roma": "to mo da ti",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "どりる",
+    "roma": "do ri ru",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "とれい",
+    "roma": "to re i",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "なす",
+    "roma": "na su",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "なつやすみ",
+    "roma": "na tu ya su mi",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "にゅうがくしき",
+    "roma": "nyu u ga ku si ki",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "にら",
+    "roma": "ni ra",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "にんじん",
+    "roma": "ni nn zi nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "にんにく",
+    "roma": "ni nn ni ku",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ねぎ",
+    "roma": "ne gi",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ねつ",
+    "roma": "ne tu",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "のーと",
+    "roma": "no ー to",
+    "length": 3,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "のど",
+    "roma": "no do",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "のり",
+    "roma": "no ri",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "は",
+    "roma": "ha",
+    "length": 1,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はくさい",
+    "roma": "ha ku sa i",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ばけつ",
+    "roma": "ba ke tu",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はさみ",
+    "roma": "ha sa mi",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はし",
+    "roma": "ha si",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぱそこんしつ",
+    "roma": "pa so ko nn si tu",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はな",
+    "roma": "ha na",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はなみず",
+    "roma": "ha na mi zu",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はみがき",
+    "roma": "ha mi ga ki",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はるやすみ",
+    "roma": "ha ru ya su mi",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はん",
+    "roma": "ha nn",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぱん",
+    "roma": "pa nn",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "はんかち",
+    "roma": "ha nn ka ti",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ばんそうこう",
+    "roma": "ba nn so u ko u",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぴーまん",
+    "roma": "pi ー ma nn",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ひなんくんれん",
+    "roma": "hi na nn ku nn re nn",
+    "length": 7,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "びょうき",
+    "roma": "byo u ki",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ひるやすみ",
+    "roma": "hi ru ya su mi",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぷーる",
+    "roma": "pu ー ru",
+    "length": 3,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ふぉーく",
+    "roma": "fo ー ku",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "ふせん",
+    "roma": "hu se nn",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ふでばこ",
+    "roma": "hu de ba ko",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ふゆやすみ",
+    "roma": "hu yu ya su mi",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぷらすちっく",
+    "roma": "pu ra su ti k ku",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": true
+  },
+  {
+    "word": "ぷりんと",
+    "roma": "pu ri nn to",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぶろっこりー",
+    "roma": "bu ro k ko ri ー",
+    "length": 6,
+    "hasYouonChoon": true,
+    "hasSokuon": true
+  },
+  {
+    "word": "ぺっとぼとる",
+    "roma": "pe t to bo to ru",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": true
+  },
+  {
+    "word": "ほうかご",
+    "roma": "ho u ka go",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ほうき",
+    "roma": "ho u ki",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぼうさいずきん",
+    "roma": "bo u sa i zu ki nn",
+    "length": 7,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ぼうし",
+    "roma": "bo u si",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ほうそうしつ",
+    "roma": "ho u so u si tu",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ほうたい",
+    "roma": "ho u ta i",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ほうれんそう",
+    "roma": "ho u re nn so u",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ほけんしつ",
+    "roma": "ho ke nn si tu",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ほけんのせんせい",
+    "roma": "ho ke nn no se nn se i",
+    "length": 8,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ますく",
+    "roma": "ma su ku",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "まど",
+    "roma": "ma do",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "みみ",
+    "roma": "mi mi",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "め",
+    "roma": "me",
+    "length": 1,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "めあて",
+    "roma": "me a te",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "めあて",
+    "roma": "me a te",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "もえないごみ",
+    "roma": "mo e na i go mi",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "もえるごみ",
+    "roma": "mo e ru go mi",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "もやし",
+    "roma": "mo ya si",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "やすみじかん",
+    "roma": "ya su mi zi ka nn",
+    "length": 6,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "らんどせる",
+    "roma": "ra nn do se ru",
+    "length": 5,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "りか",
+    "roma": "ri ka",
+    "length": 2,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "りかしつ",
+    "roma": "ri ka si tu",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "れたす",
+    "roma": "re ta su",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "れんこん",
+    "roma": "re nn ko nn",
+    "length": 4,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "れんらくちょう",
+    "roma": "re nn ra ku cho u",
+    "length": 7,
+    "hasYouonChoon": true,
+    "hasSokuon": false
+  },
+  {
+    "word": "れんらくぶくろ",
+    "roma": "re nn ra ku bu ku ro",
+    "length": 7,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ろうか",
+    "roma": "ro u ka",
+    "length": 3,
+    "hasYouonChoon": false,
+    "hasSokuon": false
+  },
+  {
+    "word": "ろっかー",
+    "roma": "ro k ka ー",
+    "length": 4,
+    "hasYouonChoon": true,
+    "hasSokuon": true
   }
 ]
