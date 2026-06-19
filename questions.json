@@ -504,24 +504,10 @@
     "hasSokuon": false
   },
   {
-    "word": "ごみばこ",
-    "roma": "go mi ba ko",
-    "length": 4,
-    "hasYouonChoon": false,
-    "hasSokuon": false
-  },
-  {
     "word": "こんだてひょう",
     "roma": "ko nn da te hyo u",
     "length": 7,
     "hasYouonChoon": true,
-    "hasSokuon": false
-  },
-  {
-    "word": "こんだんかい",
-    "roma": "ko nn da nn ka i",
-    "length": 6,
-    "hasYouonChoon": false,
     "hasSokuon": false
   },
   {
