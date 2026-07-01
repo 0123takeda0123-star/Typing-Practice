@@ -210,7 +210,7 @@ function nextQuestion() {
 function displayQuestion() {
 
     const baseName =
-    `img/${currentQuestion.word}`;
+    `imgs/${currentQuestion.word}`;
 
         questionImage.onerror = () => {
 
