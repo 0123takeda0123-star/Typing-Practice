@@ -319,6 +319,9 @@ function judgeAnswer(input){
     totalCountElement.textContent =
         totalCount;
 
+    // 入力した文字を読み上げる
+    speak(input);
+
     if (input === currentQuestion.word) {
 
         correctCount++;
